@@ -1,4 +1,5 @@
 pokus
-=====
+====\
 
-kdjfkd
+
+pokus uvidime co to udela
